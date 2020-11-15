@@ -1,0 +1,35 @@
+Komennot: 
+lisaa - lisää sanaparin sanakirjaan
+kaanna - kysyy sanan ja tulostaa sen käännöksen
+lopeta - poistuu käyttöliittymästä
+Komento: Komennot: 
+lisaa - lisää sanaparin sanakirjaan
+kaanna - kysyy sanan ja tulostaa sen käännöksen
+lopeta - poistuu käyttöliittymästä
+Komento: Suomeksi: Käännös: 
+Tuntematon komento.
+Komento: Komennot: 
+lisaa - lisää sanaparin sanakirjaan
+kaanna - kysyy sanan ja tulostaa sen käännöksen
+lopeta - poistuu käyttöliittymästä
+Komento: Komennot: 
+lisaa - lisää sanaparin sanakirjaan
+kaanna - kysyy sanan ja tulostaa sen käännöksen
+lopeta - poistuu käyttöliittymästä
+Komento: Tuntematon komento.
+Komento: Tuntematon komento.
+Komento: Komennot: 
+lisaa - lisää sanaparin sanakirjaan
+kaanna - kysyy sanan ja tulostaa sen käännöksen
+lopeta - poistuu käyttöliittymästä
+Komento: Suomeksi: Käännös: 
+Tuntematon komento.
+Komento: Komennot: 
+lisaa - lisää sanaparin sanakirjaan
+kaanna - kysyy sanan ja tulostaa sen käännöksen
+lopeta - poistuu käyttöliittymästä
+Komento: Suomeksi: Käännös: 
+Tuntematon komento.
+Komento: Suomeksi: Käännös: 
+Tuntematon komento.
+Komento: 
